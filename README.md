@@ -132,4 +132,4 @@ npm run build --prefix apps/doctor-dashboard
 
 ## 📜 License & Compliance
 
-Developed for **Smart India Hackathon 2026 (Problem Statement SIH26047)**. Compliant with ABDM Sandbox Guidelines and FHIR R4 Standard Specs.
+Developed for **Smart India Hackathon 2026 (Problem Statement SIH26047)**. Compliant with ABDM Sandbox Guidelines and FHIR R4 Standard Specs. This all possible for the well-being of others .
